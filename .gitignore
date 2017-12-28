@@ -1,0 +1,4 @@
+*.o
+
+util/_libusb.so
+util/libusb.py
